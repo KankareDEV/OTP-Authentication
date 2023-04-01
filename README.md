@@ -22,6 +22,6 @@ Features:
 - Login and Lockout: Once signed in, users can login and lockout without losing any of their account data, ensuring the security of their information.
 ## Demo
 
-<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chattapp1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/OTP-Authentication/blob/main/otp_gif1.gif">
 
-<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chatapp4.gif">
+<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/OTP-Authentication/blob/main/otp2.gif">
